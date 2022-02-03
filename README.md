@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#Simple webpage built with react to use Suggest Chain on Keplr extension wallet.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
